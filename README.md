@@ -1,9 +1,9 @@
 # CRUD_in_GO
 
-###START
+START
 go mod init quickstart
 
-###INSTALLATION OF DRIVER
+INSTALLATION OF DRIVER
 
 go get  github.com/go-sql-driver/mysql
  
